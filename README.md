@@ -1,4 +1,4 @@
-## Quantitative Neuroscience
+## Quantitative Neuroscience-mnylah
 
 Lessons and code for using quantitative approaches to analyze and interpret neuroscience data.
 
